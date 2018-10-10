@@ -17,6 +17,7 @@ ETOS TTS,  aims to build a neural text-to-speech (TTS) that is able to transform
 
 - python 3.6 or later 
 - pytorch 0.4 is tested
+- for ubuntu, ```sudo apt install libsndfile1```
 
 you can use pip to install other requirements.
 
