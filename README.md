@@ -1,7 +1,7 @@
 
 ### ETOS TTS
 
-ETOS TTS,  aims to build a neural text-to-speech (TTS) that is able to transform text to speech in voices that are sampled in the wild.  It is a PyTorch Implementation of [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model]((https://arxiv.org/abs/1703.10135)). 
+ETOS TTS,  aims to build a neural text-to-speech (TTS) that is able to transform text to speech in voices that are sampled in the wild.  It is a PyTorch Implementation of [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135). 
 
 ### ETOS
 
@@ -14,7 +14,7 @@ ETOS TTS,  aims to build a neural text-to-speech (TTS) that is able to transform
 #### Requirements
 
 - python 3.6 or later 
-- pytorch 0.4 is tested`
+- pytorch 0.4 is tested
 
 you can use pip to install other requirements.
 
@@ -101,7 +101,7 @@ Example ```config.json```:
 - [NAF](https://arxiv.org/abs/1804.00779)
 
 #### Thanks
-- https://github.com/keithito/tacotron (Dataset and Test processing)
-- https://github.com/r9y9/tacotron_pytorch (Initial Tacotron architecture)
+- https://github.com/keithito/tacotron
+- https://github.com/r9y9/tacotron_pytorch
 - https://github.com/mozilla/TTS
 
