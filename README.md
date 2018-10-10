@@ -26,7 +26,7 @@ you can use pretrained model under ```models/may22``` and run the tts web server
 
 ```python server.py -c server_conf.json```
 
-Then go to ```localhost:[given_port]``` and enjoy.
+Then go to ```http://127.0.0.1:8000``` and enjoy.
 
 
 #### Data
@@ -89,7 +89,7 @@ Example ```config.json```:
 - wavenet vocoder for better quality
 - IAF or NAF for real time performance
 
-## References
+#### References
 - [Efficient Neural Audio Synthesis](https://arxiv.org/pdf/1802.08435.pdf)
 - [Attention-Based models for speech recognition](https://arxiv.org/pdf/1506.07503.pdf)
 - [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf)

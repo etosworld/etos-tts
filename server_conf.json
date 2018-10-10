@@ -2,6 +2,6 @@
     "model_path":"./models/may22",
     "model_name":"checkpoint_272976.pth.tar",
     "model_config":"config.json",
-    "port": 5002,
+    "port": 8000,
     "use_cuda": false
 }
