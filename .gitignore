@@ -113,7 +113,6 @@ venv.bak/
 *.swo
 
 # pytorch models
-*.pth.tar
 result/
 
 # jupyter dummy files
