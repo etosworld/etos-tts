@@ -1,0 +1,4 @@
+librosa==0.5.1
+pysoundfile
+unidecode
+flask
