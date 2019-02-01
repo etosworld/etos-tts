@@ -1,5 +1,4 @@
 
-visit online demo here: http://tts.etos.world
 
 ### ETOS TTS
 
