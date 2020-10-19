@@ -4,10 +4,6 @@
 
 ETOS TTS,  aims to build a neural text-to-speech (TTS) that is able to transform text to speech in voices that are sampled in the wild.  It is a PyTorch Implementation of [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://arxiv.org/abs/1703.10135). 
 
-### ETOS
-
-- Based on ChromiumOS, ETOS is a full customed BlockChain OS. https://etos.world
-- With ETOS Coin POW CPU Mining, ETOS Store BlockChain APPs and Games, and ETOS MLKit API inside.
 
 ### Usage
 
